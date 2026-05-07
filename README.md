@@ -52,3 +52,5 @@ The app provides separate dashboards for **Admins** and **Coordinators**, allowi
 ```bash
 git clone https://github.com/farahmas/dinamik_sinav_takvimi.git
 cd dinamik_sinav_takvimi
+
+**Team:** Farahnozkhon Dilovarovna Masumova & Hayrunisa Korkulu

@@ -9,6 +9,8 @@
 
 ### 🎯 Overview
 
+**Team:** Farahnozkhon Dilovarovna Masumova & Hayrunisa Korkulu
+
 **Dinamik Sınav Takvimi** is a desktop application built with **Python** and **PySide6 (Qt for Python)**.  
 It automates the creation of **exam schedules** and **seating plans** for university departments, ensuring no student or room conflicts occur.
 
@@ -20,6 +22,8 @@ The app provides separate dashboards for **Admins** and **Coordinators**, allowi
 - Seating arrangements (with PDF export)
 
 ---
+
+
 
 ## 🚀 Features
 
@@ -53,4 +57,4 @@ The app provides separate dashboards for **Admins** and **Coordinators**, allowi
 git clone https://github.com/farahmas/dinamik_sinav_takvimi.git
 cd dinamik_sinav_takvimi
 
-**Team:** Farahnozkhon Dilovarovna Masumova & Hayrunisa Korkulu
+
